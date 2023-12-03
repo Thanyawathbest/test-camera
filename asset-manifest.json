@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/test-camera/static/css/main.a04a6ad0.css",
-    "main.js": "/test-camera/static/js/main.10b3b95a.js",
-    "static/js/787.b75da5a0.chunk.js": "/test-camera/static/js/787.b75da5a0.chunk.js",
-    "index.html": "/test-camera/index.html",
-    "main.a04a6ad0.css.map": "/test-camera/static/css/main.a04a6ad0.css.map",
-    "main.10b3b95a.js.map": "/test-camera/static/js/main.10b3b95a.js.map",
-    "787.b75da5a0.chunk.js.map": "/test-camera/static/js/787.b75da5a0.chunk.js.map"
+    "main.css": "/travel/static/css/main.f4632440.css",
+    "main.js": "/travel/static/js/main.a64ddff0.js",
+    "static/js/787.b75da5a0.chunk.js": "/travel/static/js/787.b75da5a0.chunk.js",
+    "static/media/tree-in-temple.jpg": "/travel/static/media/tree-in-temple.700b0e067088a52d015d.jpg",
+    "static/media/temple1.jpg": "/travel/static/media/temple1.b3c460e412a74f63c4b8.jpg",
+    "static/media/temple.jpg": "/travel/static/media/temple.3bc7ade03287071b85ea.jpg",
+    "static/media/Buddha-statue.jpg": "/travel/static/media/Buddha-statue.b549d73d3bd7b7f310e4.jpg",
+    "static/media/temple2.jpg": "/travel/static/media/temple2.62cae6cc8716cc54f28c.jpg",
+    "index.html": "/travel/index.html",
+    "main.f4632440.css.map": "/travel/static/css/main.f4632440.css.map",
+    "main.a64ddff0.js.map": "/travel/static/js/main.a64ddff0.js.map",
+    "787.b75da5a0.chunk.js.map": "/travel/static/js/787.b75da5a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a04a6ad0.css",
-    "static/js/main.10b3b95a.js"
+    "static/css/main.f4632440.css",
+    "static/js/main.a64ddff0.js"
   ]
 }
