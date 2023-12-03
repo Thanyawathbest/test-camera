@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/travel/static/css/main.f4632440.css",
-    "main.js": "/travel/static/js/main.a64ddff0.js",
-    "static/js/787.b75da5a0.chunk.js": "/travel/static/js/787.b75da5a0.chunk.js",
-    "static/media/tree-in-temple.jpg": "/travel/static/media/tree-in-temple.700b0e067088a52d015d.jpg",
-    "static/media/temple1.jpg": "/travel/static/media/temple1.b3c460e412a74f63c4b8.jpg",
-    "static/media/temple.jpg": "/travel/static/media/temple.3bc7ade03287071b85ea.jpg",
-    "static/media/Buddha-statue.jpg": "/travel/static/media/Buddha-statue.b549d73d3bd7b7f310e4.jpg",
-    "static/media/temple2.jpg": "/travel/static/media/temple2.62cae6cc8716cc54f28c.jpg",
-    "index.html": "/travel/index.html",
-    "main.f4632440.css.map": "/travel/static/css/main.f4632440.css.map",
-    "main.a64ddff0.js.map": "/travel/static/js/main.a64ddff0.js.map",
-    "787.b75da5a0.chunk.js.map": "/travel/static/js/787.b75da5a0.chunk.js.map"
+    "main.css": "/static/css/main.f4632440.css",
+    "main.js": "/static/js/main.8c7a2aee.js",
+    "static/js/787.b75da5a0.chunk.js": "/static/js/787.b75da5a0.chunk.js",
+    "static/media/tree-in-temple.jpg": "/static/media/tree-in-temple.700b0e067088a52d015d.jpg",
+    "static/media/temple1.jpg": "/static/media/temple1.b3c460e412a74f63c4b8.jpg",
+    "static/media/temple.jpg": "/static/media/temple.3bc7ade03287071b85ea.jpg",
+    "static/media/Buddha-statue.jpg": "/static/media/Buddha-statue.b549d73d3bd7b7f310e4.jpg",
+    "static/media/temple2.jpg": "/static/media/temple2.62cae6cc8716cc54f28c.jpg",
+    "index.html": "/index.html",
+    "main.f4632440.css.map": "/static/css/main.f4632440.css.map",
+    "main.8c7a2aee.js.map": "/static/js/main.8c7a2aee.js.map",
+    "787.b75da5a0.chunk.js.map": "/static/js/787.b75da5a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4632440.css",
-    "static/js/main.a64ddff0.js"
+    "static/js/main.8c7a2aee.js"
   ]
 }
