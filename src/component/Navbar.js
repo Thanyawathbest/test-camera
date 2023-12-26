@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Link, Outlet } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import Newslide from './Slideovers_new'
 import thai from "../assets/image/flagthai.jpg";
 
@@ -33,7 +33,7 @@ function Navbar() {
           <Link className="" to="">หน้าแรก</Link>
           <Link className="" to="/location">สถานที่ภายในวัด</Link>
           <Link className="" to="/upload">อัพโหลดรูป</Link>
-          <Link className="" to="/contact">ติดต่อ</Link>
+          {/* <Link className="" to="/contact">ติดต่อ</Link> */}
         
         </div>
 
